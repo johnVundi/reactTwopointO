@@ -1,7 +1,9 @@
 import React from 'react'
+import "./LandingPage.css";
+
 
 export const LandingPage = () => {
   return (
-    <div>welcome</div>
+    <div className='landing-heading'>welcome</div>
   )
 }
